@@ -1,0 +1,22 @@
+{
+  "name": "typebot_mods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gd": "node_modules/.bin/jsdoc --configure .jsdoc.json --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "merge-options": "^2.0.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.6.4",
+    "minami": "^1.2.3"
+  },
+  "homepage": "https://typebot_mods.js.org"
+}
