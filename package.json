@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "gd": "node_modules/.bin/jsdoc --configure .jsdoc.json --verbose"
   },
-  "keywords": [],
+  "keywords": ["embeds","discord.js","typebot","mods","typebot_mods"],
   "author": "",
   "license": "ISC",
   "dependencies": {
