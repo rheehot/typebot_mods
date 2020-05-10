@@ -1,7 +1,7 @@
 # ⌨️ typebot_mods ⌨️
 [![downloadsBadge](https://img.shields.io/npm/dt/typebot_mods?style=for-the-badge)](https://npmjs.com/typebot_mods)
 [![versionBadge](https://img.shields.io/npm/v/typebot_mods?style=for-the-badge)](https://npmjs.com/typebot_mods)
-[![doc](https://img.shields.io/badge/Documentation-Click%20here-blue?style=for-the-badge)](https://typebot_mods.js.org) <br>
+[![doc](https://img.shields.io/badge/Documentation-Click%20here-blue?style=for-the-badge)](https://milo123459.github.io/typebot_mods/) <br>
 **What features does typebot_mods have?**
 * 1️⃣Embeds
 * 2️⃣Advanced Config
